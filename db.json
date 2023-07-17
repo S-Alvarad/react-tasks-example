@@ -1,0 +1,18 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "LAPTOP",
+         "price": 1599.99,
+         "description": "HP Laptop",
+         "categoryId": 1
+      }
+   ],
+   "category": [
+      {
+         "id": 1,
+         "name": "computers",
+         "description": "computers, laptops, monitors, etc"
+      }
+   ]
+}
